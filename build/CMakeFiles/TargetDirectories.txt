@@ -1,0 +1,4 @@
+D:/__Github__/Windows/projects/proxy/build/CMakeFiles/ALL_BUILD.dir
+D:/__Github__/Windows/projects/proxy/build/CMakeFiles/ZERO_CHECK.dir
+D:/__Github__/Windows/projects/proxy/build/cmakes/bridge/CMakeFiles/bridge.dir
+D:/__Github__/Windows/projects/proxy/build/cmakes/bridge/CMakeFiles/ALL_BUILD.dir
