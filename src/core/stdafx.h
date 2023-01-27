@@ -6,6 +6,12 @@
 #include <openssl.hpp>
 #include <iconv.hpp>
 
+#include <libcurlpp.hpp>
+#include <libuvpp.hpp>
+#include "http.h"
+#include "server.h"
+#include "core.h"
+#include "global.h"
 
 /// /*_ Memade®（新生™） _**/
 /// /*_ Tue, 24 Jan 2023 04:24:41 GMT _**/
